@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/editor-de-memes-react-codoacodo/static/css/main.e6c13ad2.css",
+    "main.js": "/editor-de-memes-react-codoacodo/static/js/main.52a1d60d.js",
+    "static/js/787.e302d2fa.chunk.js": "/editor-de-memes-react-codoacodo/static/js/787.e302d2fa.chunk.js",
+    "index.html": "/editor-de-memes-react-codoacodo/index.html",
+    "main.e6c13ad2.css.map": "/editor-de-memes-react-codoacodo/static/css/main.e6c13ad2.css.map",
+    "main.52a1d60d.js.map": "/editor-de-memes-react-codoacodo/static/js/main.52a1d60d.js.map",
+    "787.e302d2fa.chunk.js.map": "/editor-de-memes-react-codoacodo/static/js/787.e302d2fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.52a1d60d.js"
+  ]
+}
